@@ -33,7 +33,7 @@ const Worked = () => {
 
 
     return ( <div className="mt-20 w-10/12 m-auto">
-        <div className="flex items-end mb-6 "><p>02.</p> <p className="ml-2  text-4xl"> Where I've Worked</p></div>
+        <div className="flex items-end mb-6 "><p>02.</p> <p className="ml-2  text-4xl font-extrabold "> Where I've Worked</p></div>
         <ul className="flex justify-between  border-b-2 my-4">
             <li className="cursor-pointer hover:scale-110" onClick={showFiiro} >FIIRO</li>
             <li className="cursor-pointer hover:scale-110" onClick={showMira}>Mira Tech</li>

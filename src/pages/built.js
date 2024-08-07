@@ -3,7 +3,7 @@ const Built = () => {
     <div className="mt-28 w-5/6 m-auto">
       <div className="flex items-end">
         <p>03.</p>
-        <p className="text-4xl ml-3">Some Things ive built</p>
+        <p className="text-4xl ml-3 font-extrabold">Some Things ive built</p>
       </div>
       <div className="w[500px] m-auto ">
         <div className="flex justify-center my-10 font-semibold ">
